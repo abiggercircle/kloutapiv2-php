@@ -1,7 +1,7 @@
 {
   "name": "abiggercircle/kloutapiv2-php",
   "description": "Simple PHP Wrapper for Klout API v2",
-  "version": "0.99",
+  "version": "0.99.1",
   "type": "library",
   "keywords": ["Klout", "PHP", "API"],
   "homepage": "https://github.com/abiggercircle/KloutAPIv2-PHP",
