@@ -1,15 +1,15 @@
 {
-  "name": "diginedbv/kloutapiv2-php",
+  "name": "abiggercircle/kloutapiv2-php",
   "description": "Simple PHP Wrapper for Klout API v2",
   "version": "0.99",
   "type": "library",
   "keywords": ["Klout", "PHP", "API"],
-  "homepage": "https://github.com/diginedbv/KloutAPIv2-PHP",
+  "homepage": "https://github.com/abiggercircle/KloutAPIv2-PHP",
   "license": "GNU Public License",
   "authors": [
     {
-      "name": "Digined BV",
-      "homepage": "https://github.com/diginedbv/KloutAPIv2-PHP"
+      "name": "A Bigger Circle",
+      "homepage": "https://github.com/abiggercircle/KloutAPIv2-PHP"
     }
   ],
   "autoload": {
